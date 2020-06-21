@@ -3,6 +3,8 @@ name = "i8583"
 version = "0.1.0"
 authors = ["Oluwapelumi Ajayi <opelajayi@yahoo.com>"]
 edition = "2018"
+description = "Types, associated functions and specifications for packing and unpacking ISO8583 financial transaction messages."
+license = "MIT"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
